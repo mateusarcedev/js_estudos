@@ -1,0 +1,13 @@
+{
+    "nome": "Mateus Arce",
+    "cidade": "Manaus",
+    "telefone": 999999999,
+    "livros_favoritos": [
+        "1984",
+        "Admiravél Mundo novo"
+    ],
+    "hobbies": {
+        "Semana": "Assistir séries",
+        "fim_de_semana": "futebol"
+    }
+}

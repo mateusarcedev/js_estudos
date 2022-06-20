@@ -1,0 +1,1 @@
+### Repositório criado para guardar os exercícios feitos durante meus estudos de JavaScript.
